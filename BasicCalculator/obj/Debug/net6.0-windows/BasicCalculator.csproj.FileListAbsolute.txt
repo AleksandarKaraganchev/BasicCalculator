@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.exe
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.deps.json
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.runtimeconfig.json
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.dll
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.pdb
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.Form1.resources
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.dll
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\refint\BasicCalculator.dll
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.pdb
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\ref\BasicCalculator.dll
